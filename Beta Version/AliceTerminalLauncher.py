@@ -1,0 +1,3 @@
+import AliceTerminal
+
+AliceTerminal.menu()
